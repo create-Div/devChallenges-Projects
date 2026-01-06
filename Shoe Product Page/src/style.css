@@ -141,11 +141,11 @@ nav[aria-label="Breadcrumbs"] ol {
 
 .img-container {
 	overflow: hidden;
+	order: -1;
 }
 
 img {
 	height: auto;
-	order: -1;
 	border-radius: 4px;
 	max-width: 472px;
 	transition: scale 0.3s ease-out;
